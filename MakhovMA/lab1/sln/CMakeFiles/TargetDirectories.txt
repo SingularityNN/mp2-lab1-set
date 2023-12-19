@@ -1,0 +1,6 @@
+C:/Users/Михаил/Desktop/GIT/Makhov_lab1/lab1_lab/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/Михаил/Desktop/GIT/Makhov_lab1/lab1_lab/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Михаил/Desktop/GIT/Makhov_lab1/lab1_lab/sln/src/CMakeFiles/set.dir
+C:/Users/Михаил/Desktop/GIT/Makhov_lab1/lab1_lab/sln/samples/CMakeFiles/sample_prime_numbers.dir
+C:/Users/Михаил/Desktop/GIT/Makhov_lab1/lab1_lab/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/Михаил/Desktop/GIT/Makhov_lab1/lab1_lab/sln/test/CMakeFiles/test_set.dir
